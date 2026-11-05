@@ -1,0 +1,6 @@
+{
+  "name": "Master Trigonometri - Persiapan TKA Matematika Tingkat Lanjut",
+  "description": "Aplikasi pembelajaran interaktif dan simulasi TKA Matematika Tingkat Lanjut materi Jumlah dan Selisih Sudut Trigonometri bersama Bu Guru Wenni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
